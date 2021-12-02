@@ -1,0 +1,21 @@
+[
+    {
+        "nama"          : "Puput Budi Wintoro",
+        "npm"          : "0231108402",
+        "email"         : "wintorogaulz@gmail.com",
+        "idDosenWali"   : 1
+    },
+    {
+        "nama"          : "Norma Maylinda",
+        "npm"          : "12345678",
+        "email"         : "norma@gmail.com",
+        "idDosenWali"   : 2
+    },
+    {
+        "nama"          : "Kanaya Anindya",
+        "npm"          : "87654321",
+        "email"         : "kanaya@gmail.com",
+        "idDosenWali"   : 3
+    }
+]
+
